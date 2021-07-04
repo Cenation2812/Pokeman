@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pokemon-app-587e2",
+  "private_key_id": "426c4dbf812a490bd539afcee15fde1f39f9289e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCfweKIJG2KYK4/\nsdvmmXp42CjuGuLNSwloCd5UIqreRJfL7FlAElxY/Gtxbk5cR0LDB+FWsSSQACvo\neU3JhYbb8S1Cvft0UAJQkSnSsqipTHxyJbv3n6E3r1y4u2XVC27bOur3k8xMIIcB\nfrW8Nqq964g9SstiSq5nB0ySfenvS8ckWnhOa5LE3hsQJON5bEcj6LG5rhPzsNR1\nXvIB+AaEATo1BGVbnBQXQitQyYwfcv/DUq6XmajkgjmyGqu7dV3Rll3y/jOYE4XJ\n0KvdlWRa4GOUQjyxgGeqjZs1TojP3T2EgGI7wFJ3rEuYHx7dakuT2SVaaN9IEKfB\nSZvQflwxAgMBAAECggEAFQI1Mma/9PjpJpJ9cuIaBfbpza4Wx0fShoOjC3i89EUc\nRS02lhi+sNZjoWNlG04lDGq737T53un23DfKL/HG804lqpI7QBIey84wgXcMe6mw\nRSk118bT4kkbA2a5adPQEd+58zF/ez9dIagyaVGIZeNUY42zbfXuNg7yqzezDMxl\nUCYSuXtRx/b8a42+1uF74n8ms46j7EgUp8Idz9kHl0ImcWxzKgpnIL3kX7XwOD8o\n1qPaFuTd0ckX0T+rJs453D583peY+mXaSJEbNoTy+pq9gTBYZV8OZjxQvz430uuh\n0rz4np2ia/BiIftP7fVGiRoDLmjCng9FegIY6zE1NQKBgQDYeK0OSlwGU+KFCN3f\nqpjQUWOVPimdLkusPt+ho1wuNs8Q2cBeLuHIcot4aeHfYhAqoIIK22gEP37jykse\nPhvtbVPHMucfFY3cOWBCCZyZph3F5XSYtZgV0nuXwO5/DZAVun65YY6hIukVqWVu\ngMXeHgqCk1SK1BLgfrj5EsugPwKBgQC87gPY01Ch5imbKT587r+UShZ/RGqCEiP8\n9WSGENaTpZLJu1eJPAc+c1M01u9H9Ucn26czUo628+FL6i67i/FTfEfIoY9snMaT\nSJfT0EOP5TI4knXJwZrMe9FeMakl2t95wu7gPjNJJEgEAkRwgoJK8911ryZHwUZb\n+vDy0xnnjwKBgH3PPPzmOK+wxyD8cz8P/jpsYw0VEMh6ZJ6Z+A0QTX3KevPXKldS\ntgRylh6Ioy7Z5n1vxcSbmcuGP7ASHTBZdo+6D4vhSLQnKciJTCl1Pp+KDRm77tTm\nDZr5Nr2O8s3Cyy/lsMr7KRL7oC3nwrzDeLxMB122VNdOxB3XaJfR1aivAoGBAK0h\nD7VqL8GswQPGz9R8lGK3YdZOQ6veI8xysyOH2pqCZ/klDBpeP+UimWUacTtnsUT9\nLEMDrHRLGHIQr7J9kzAF+2IHav8Ey5O8OiWH++GpDlR5Iic4mzo3XK0MpQxjfdZ+\no5gqZ6Tm8nd5/G19qxg0UQS+9D1dB7TSSGq8uEhRAoGBALoWRoZrsNfzNiNsHQYr\nZdfLiMfEekQdIVO5PtJGZ/Hm64utL/Kf/KLxN4Yl02q6TD8AmQC4u73S7xZQHNGz\nG/hFaRCjOl8cvmDLpgnzPw18i+YVFwRDfMcFuQaG5odyK09ynxGXHRPKJPbp/5dM\nHGAnmF9q/MJt/BVuOPq7du0l\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-d4zx4@pokemon-app-587e2.iam.gserviceaccount.com",
+  "client_id": "113805141933324931360",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-d4zx4%40pokemon-app-587e2.iam.gserviceaccount.com"
+}
